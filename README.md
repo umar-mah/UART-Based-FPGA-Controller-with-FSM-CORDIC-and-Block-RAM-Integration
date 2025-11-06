@@ -1,4 +1,4 @@
-# HW 5 (Muhammad Umar)
+# UART-Based FPGA Controller with FSM, CORDIC, and Block RAM Integration
 
 ## Introduction (LoopBack)
 A loopback test is a good first step to ensure that a communication system is operating.
